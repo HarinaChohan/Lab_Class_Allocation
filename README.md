@@ -1,6 +1,10 @@
 # Lab_Class_Allocation
 Assume you are responsible for creating a laboratory schedule for the 5 Laboratories in the LKB Building at USIU-A. 
-Assume we offer 200 classes per semester and have 60 faculty members. Demonstrate how you have factored in constraints such as (i) ensuring classes taken in the same semester do not take place at the same time, (ii) classes taking place at the same time are taught by different faculty, (ii) concentration classes are scheduled in smaller-sized labs, (iii) Double classes take place on Mon/Wed or Tue/Thur etc.
+Assume we offer 200 classes per semester and have 60 faculty members. Demonstrate how you have factored in constraints such as 
+(i) ensuring classes taken in the same semester do not take place at the same time, 
+(ii) classes taking place at the same time are taught by different faculty, 
+(ii) concentration classes are scheduled in smaller-sized labs, 
+(iii) Double classes take place on Mon/Wed or Tue/Thur etc.
 
 ## Rules and setup
 In this situation: 
