@@ -15,3 +15,8 @@ In this situation:
 5. Classes happen every 2 hours
 6. Sample classes: 33 of them
 7. Monday and Wednesday, and Tuesday and Thursday are double classes
+
+<img width="1252" height="1065" alt="image" src="https://github.com/user-attachments/assets/740b95df-6fcd-489a-8085-2ac7bba2f3be" />
+<img width="1252" height="1065" alt="image" src="https://github.com/user-attachments/assets/5dfb362e-c2a9-4d84-908f-f974967b76fa" />
+<img width="1252" height="1065" alt="image" src="https://github.com/user-attachments/assets/3fdf68a1-16d1-4f14-b790-c5e77b7264cd" />
+<img width="1252" height="1065" alt="image" src="https://github.com/user-attachments/assets/25e625e8-0646-457a-8c8e-a5290f1ff686" />
